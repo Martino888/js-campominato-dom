@@ -44,6 +44,10 @@ header{
     background-color: blue;
 }
 
+.bomb{
+    background-color: red;
+}
+
 .easy{
     width: calc(100% / 7 ) ;
     height: 50px ;
